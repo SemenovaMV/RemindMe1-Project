@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RemindMe1.iml" filepath="$PROJECT_DIR$/RemindMe1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj1/proj1.iml" filepath="$PROJECT_DIR$/proj1/proj1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rasp/rasp.iml" filepath="$PROJECT_DIR$/rasp/rasp.iml" />
     </modules>
   </component>
 </project>
